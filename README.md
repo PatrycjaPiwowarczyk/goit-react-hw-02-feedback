@@ -1,1 +1,1 @@
-# https://patrycjapiwowarczyk.github.io/feedback-box/
+# https://patrycjapiwowarczyk.github.io/feedback-box--react-classComponent/
